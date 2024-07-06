@@ -41,3 +41,5 @@ console.log(buyItem(hero2, shop2));
 
 module.exports = buyItem;
 
+//sirapob yongmarnwong 660610801
+
